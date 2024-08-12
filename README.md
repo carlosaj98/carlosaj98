@@ -49,9 +49,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/carlosaj98/carlosaj98/output/snake.svg" alt="Snake animation" />
-
-###
-
